@@ -5,7 +5,6 @@
 ##Person
 *Name:Daniil;
 *Surname:Tereshenko;
-*Portret.
 
 ##Contact info
 -Phone number:+375297553182
